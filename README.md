@@ -7,4 +7,4 @@
 
 👉 [https://pypi.org/project/sparkplug/](https://pypi.org/project/sparkplug/)
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aschiffler/python-mqtt.git/HEAD?labpath=sparkplug_demo.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aschiffler/python-mqtt.git/HEAD?labpath=sparkplug_demo-host.ipynb)
