@@ -1,5 +1,4 @@
 paho-mqtt==1.6.1
 datetime
 pysparkplug
-threading
-textwrap
+textwrap3
